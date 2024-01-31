@@ -22,3 +22,6 @@ This is a small template that uses Langchain and OpenAI to build a PdfChat app. 
 - OpenAI API key
 - Faiss
 
+![PDFChat](https://github.com/divya-ranka/PDFChat_Langchain/assets/123532829/a004aa21-eda0-4527-b69a-897dce2cad4a)
+
+
