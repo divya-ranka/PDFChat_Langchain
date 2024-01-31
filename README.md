@@ -1,8 +1,6 @@
-# PDFChat_Langchain
-
 # PdfChat App with Langchain and OpenAI
 
-This is a small project that uses Langchain and OpenAI to build a PdfChat app. The app leverages OpenAI for question-answering capabilities and Langchain for text processing and retrieval.
+This is a small template that uses Langchain and OpenAI to build a PdfChat app. The app leverages OpenAI for question-answering capabilities and Langchain for text processing and retrieval.
 
 ## Features
 
